@@ -1,1 +1,1 @@
-smartarena.online
+Smart contracts for smartarena.online
