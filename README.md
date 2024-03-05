@@ -14,5 +14,5 @@ Battles: 0x4E3E7B37CC1C658e551Ba9CCEeCC32c6220eB18A
 <li> set a new minimum bet value;
 <li> set a new maximum number of players in a game;
 <li> set a new commission percentage;
-<li> withdraw funds from the contract.</ul><br>
-The contract owner cannot withdraw funds that are locked for games.
+<li> withdraw funds from the contract;</ul><br>
+The contract owner cannot withdraw funds that are locked for games!
