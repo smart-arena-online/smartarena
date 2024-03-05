@@ -10,7 +10,7 @@ Arena: 0xeF394D85C36f269a3c4e6cc7d8aed980a485Dbf1
 <br>
 Battles: 0x4E3E7B37CC1C658e551Ba9CCEeCC32c6220eB18A
 <br><br><ul>
-<b>The contract owner has the right to:</b>
+<b>The contracts owner has the right to:</b>
 <li> set a new min bet value;
 <li> set a new max number of players in a round;
 <li> set a new commission percentage;
