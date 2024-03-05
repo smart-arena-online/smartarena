@@ -1,11 +1,11 @@
 <b><a href="https://smartarena.online" target="_blank">SMARTARENA.ONLINE</a></b>
 
-<b>TON:</b><br>
+<b>TON CONTRACTS:</b><br>
 Arena: EQBa2xe9uxmAuzIqAgZae64Ftyy-Jt9yPi3irMkhQ0l2m8CH
 <br>
 Battles: EQDPuRGcckGvTHMBLBRdnoY8HG0DkY7VQFvPYiKHr5694s2U
 
-<b>BSC:</b><br>
+<b>BSC CONTRACTS:</b><br>
 Arena: 0xeF394D85C36f269a3c4e6cc7d8aed980a485Dbf1
 <br>
 Battles: 0x4E3E7B37CC1C658e551Ba9CCEeCC32c6220eB18A
