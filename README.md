@@ -1,16 +1,18 @@
-SMARTARENA.ONLINE
+<b><a href="https://smartarena.online" target="_blank">SMARTARENA.ONLINE</a></b>
 
-TON:
+<b>TON:</b><br>
 Arena: EQBa2xe9uxmAuzIqAgZae64Ftyy-Jt9yPi3irMkhQ0l2m8CH
+<br>
 Battles: EQDPuRGcckGvTHMBLBRdnoY8HG0DkY7VQFvPYiKHr5694s2U
 
-BSC:
+<b>BSC:</b><br>
 Arena: 0xeF394D85C36f269a3c4e6cc7d8aed980a485Dbf1
+<br>
 Battles: 0x4E3E7B37CC1C658e551Ba9CCEeCC32c6220eB18A
-
-The contract owner has the right to:
-    - set a new min bet value;
-    - set a new max number of players in a round;
-    - set a new commission percentage;
-    - withdraw funds from the contract.
+<br><br><ul>
+<b>The contract owner has the right to:</b>
+<li> set a new min bet value;
+<li> set a new max number of players in a round;
+<li> set a new commission percentage;
+<li> withdraw funds from the contract.</ul><br>
 The contract owner cannot withdraw funds that are locked for games.
