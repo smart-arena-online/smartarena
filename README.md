@@ -1,14 +1,14 @@
 <b><a href="https://smartarena.online" target="_blank">SMARTARENA.ONLINE</a></b>
 
 <b>TON CONTRACTS:</b><br>
-Arena: EQBa2xe9uxmAuzIqAgZae64Ftyy-Jt9yPi3irMkhQ0l2m8CH
+Battles: EQB6f6pzo6WeaoYOyUx5g5aAkv5uCIaTFr5Q4YI8U3Am4qHg
 <br>
-Battles: EQDPuRGcckGvTHMBLBRdnoY8HG0DkY7VQFvPYiKHr5694s2U
+Arena: EQBa2xe9uxmAuzIqAgZae64Ftyy-Jt9yPi3irMkhQ0l2m8CH
 
 <b>BSC CONTRACTS:</b><br>
-Arena: 0xeF394D85C36f269a3c4e6cc7d8aed980a485Dbf1
+Battles: 0x5fF94876B5502fb2b5F7579db489F7F2e346CC24
 <br>
-Battles: 0x4E3E7B37CC1C658e551Ba9CCEeCC32c6220eB18A
+Arena: 0xeF394D85C36f269a3c4e6cc7d8aed980a485Dbf1
 <br><br><ul>
 <b>The contracts owner has the right to:</b>
 <li> set a new minimum bet value;
